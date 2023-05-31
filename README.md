@@ -9,7 +9,11 @@
   <img src="https://komarev.com/ghpvc/?username=kprajapati22&label=Profile%20views&color=9f9f9f&style=flat-square" alt="kprajapati22" />
 </p>
 
-- 🔭 I’m currently working on **WPWeb Infotech**
+- 🔭 I have strong Research and Development Skill
+
+- 👯 I have experience working in Enterprise WordPress (WordPress VIP) environment.
+
+- 👯 Good konwledge of PHPCS (PHP Coding Standard) and WPCS (WordPress Coding Standard)
 
 - 🌱 I’m currently learning **Node JS**
 
@@ -17,7 +21,7 @@
 
 - 👨‍💻 All of my projects are available at [http://kprajapati22.com](http://kprajapati22.com)
 
-- 💬 Ask me about **php, wordpress, react, codeigniter, etc.**
+- 💬 Ask me about **PHP, WordPress, React, CodeIgniter, JavaScript etc.**
 
 - 📫 How to reach me **kprajapati22@gmail.com**
 
