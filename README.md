@@ -19,8 +19,6 @@
 
 - 👯 I’m looking to collaborate on **any good project**
 
-- 👨‍💻 All of my projects are available at [http://kprajapati22.com](http://kprajapati22.com)
-
 - 💬 Ask me about **PHP, WordPress, React, CodeIgniter, JavaScript etc.**
 
 - 📫 How to reach me **kprajapati22@gmail.com**
